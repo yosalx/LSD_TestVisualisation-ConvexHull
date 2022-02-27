@@ -20,7 +20,7 @@ LSD_TestvVisualisation-ConvexHull
 ├── doc                     # Berisi laporan
 ```
 
-#How To Run
+# How To Run
 1. Clone repository ini : `https://github.com/yosalx/LSD_TestvVisualisation-ConvexHull`
 2. Install seluruh package pada requirement : `pip/pip3 install <package_name>`
 3. Buka terminal dan ubah path menuju folder src : `cd LSD_TestvVisualisation-ConvexHull/src pada terminal `
