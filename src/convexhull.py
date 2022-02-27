@@ -69,7 +69,7 @@ def position(point, min,max):
     xmax, ymax = max
     xp,yp = point
     determinant = (xmin*ymax + xp*ymin + xmax*yp - xp*ymax - xmax*ymin - xmin*yp)
-    if(determinant > pow(10,-10)):
+    if(determinant > pow(10,-10)): # error range
         return "above"
     elif(determinant < 0):
         return "below"
