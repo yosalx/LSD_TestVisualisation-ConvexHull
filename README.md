@@ -1,8 +1,9 @@
 # Python Library myConvexHull
 
 ### Pemanfaatan algortima divide and conquer untuk pembuatan library myConvexHull untuk Linear Separability Dataset Test.
-#### Program dalam folder src terdiri dari file main.py yang berisi program untuk me-load data set dan melakukan visualisasi dari convex hull dari pasangan aribut pada data set yang digunakan
-#### Pada myConvexHull.py berisi implementasi library myConvexHull dengan algortima divide and conquer yang diterapkan dengan menggunakan metode rekursif
+Program dalam folder src terdiri dari file main.py yang berisi program untuk me-load data set dan melakukan visualisasi dari convex hull dari pasangan aribut pada data set yang digunakan
+
+Pada myConvexHull.py berisi implementasi library myConvexHull dengan algortima divide and conquer yang diterapkan dengan menggunakan metode rekursif
 
 # Author
 
